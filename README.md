@@ -95,7 +95,7 @@ class Varun:
 
 - **[eventflow](https://github.com/juneja-varun/eventflow)** — Event-driven order pipeline: Django REST API publishes domain events over Redis pub/sub, a listener dispatches them to a Celery task queue. Postgres + Redis service containers in CI, no mocked DB.
 - **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** — GitHub Action that reviews PR diffs with Claude and posts findings as a comment. ~200 lines, fully tested, published on the Marketplace-ready `action.yml` format.
-- **[hrms](https://github.com/juneja-varun/hrms)** — Lightweight HRM system built with Django REST Framework + React, deployed on Render/Vercel with PostgreSQL. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+- **[hrms](https://github.com/juneja-varun/hrms)** — HR management system: Django REST Framework + React, soft-delete-aware unique constraints, versioned API with a compatibility layer, custom exception→status-code mapping. Deployed on Render/Vercel. [Live demo →](https://hrms-ashen-gamma.vercel.app)
 
 *More landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
 
