@@ -85,17 +85,9 @@ class Varun:
 
 # 📂 Featured Projects
 
-<div align="center">
-
-[![eventflow](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=eventflow&theme=default)](https://github.com/juneja-varun/eventflow)
-[![ai-pr-reviewer](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=ai-pr-reviewer&theme=default)](https://github.com/juneja-varun/ai-pr-reviewer)
-[![hrms](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=hrms&theme=default)](https://github.com/juneja-varun/hrms)
-
-</div>
-
-- **[eventflow](https://github.com/juneja-varun/eventflow)** — Event-driven order pipeline: Django REST API publishes domain events over Redis pub/sub, a listener dispatches them to a Celery task queue. Postgres + Redis service containers in CI, no mocked DB.
-- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** — GitHub Action that reviews PR diffs with Claude and posts findings as a comment. ~200 lines, fully tested, published on the Marketplace-ready `action.yml` format.
-- **[hrms](https://github.com/juneja-varun/hrms)** — HR management system: Django REST Framework + React, soft-delete-aware unique constraints, versioned API with a compatibility layer, custom exception→status-code mapping. Deployed on Render/Vercel. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+- **[eventflow](https://github.com/juneja-varun/eventflow)** ![CI](https://github.com/juneja-varun/eventflow/actions/workflows/ci.yml/badge.svg) — Event-driven order pipeline: Django REST API publishes domain events over Redis pub/sub, a listener dispatches them to a Celery task queue. Postgres + Redis service containers in CI, no mocked DB.
+- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** ![CI](https://github.com/juneja-varun/ai-pr-reviewer/actions/workflows/ci.yml/badge.svg) — GitHub Action that reviews PR diffs with Claude and posts findings as a comment. ~200 lines, fully tested, published on the Marketplace-ready `action.yml` format.
+- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system: Django REST Framework + React, soft-delete-aware unique constraints, versioned API with a compatibility layer, custom exception→status-code mapping. Deployed on Render/Vercel. [Live demo →](https://hrms-ashen-gamma.vercel.app)
 
 *More landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
 
@@ -185,7 +177,6 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juneja-varun&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juneja-varun&hide_border=true" height="165">
 
 </div>
