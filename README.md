@@ -83,6 +83,20 @@ class Varun:
 
 ---
 
+# 📂 Featured Projects
+
+<div align="center">
+
+[![hrms](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=hrms&theme=default)](https://github.com/juneja-varun/hrms)
+
+**[hrms](https://github.com/juneja-varun/hrms)** — Lightweight HRM system built with Django REST Framework + React, deployed on Render/Vercel with PostgreSQL. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+
+</div>
+
+*More projects landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
+
+---
+
 # 🏗️ Cool Stuff I've Worked On
 
 ## 🔐 Encryption & Secure Systems
@@ -160,6 +174,17 @@ Currently exploring:
 ```txt
 "wait... this is actually clean 👀"
 ```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=juneja-varun&show_icons=true&theme=default&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juneja-varun&hide_border=true" height="165">
+
+</div>
 
 ---
 
