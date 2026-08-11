@@ -87,13 +87,17 @@ class Varun:
 
 <div align="center">
 
+[![eventflow](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=eventflow&theme=default)](https://github.com/juneja-varun/eventflow)
+[![ai-pr-reviewer](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=ai-pr-reviewer&theme=default)](https://github.com/juneja-varun/ai-pr-reviewer)
 [![hrms](https://github-readme-stats.vercel.app/api/pin/?username=juneja-varun&repo=hrms&theme=default)](https://github.com/juneja-varun/hrms)
-
-**[hrms](https://github.com/juneja-varun/hrms)** — Lightweight HRM system built with Django REST Framework + React, deployed on Render/Vercel with PostgreSQL. [Live demo →](https://hrms-ashen-gamma.vercel.app)
 
 </div>
 
-*More projects landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
+- **[eventflow](https://github.com/juneja-varun/eventflow)** — Event-driven order pipeline: Django REST API publishes domain events over Redis pub/sub, a listener dispatches them to a Celery task queue. Postgres + Redis service containers in CI, no mocked DB.
+- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** — GitHub Action that reviews PR diffs with Claude and posts findings as a comment. ~200 lines, fully tested, published on the Marketplace-ready `action.yml` format.
+- **[hrms](https://github.com/juneja-varun/hrms)** — Lightweight HRM system built with Django REST Framework + React, deployed on Render/Vercel with PostgreSQL. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+
+*More landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
 
 ---
 
