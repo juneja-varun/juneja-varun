@@ -21,7 +21,7 @@
 
 - **[eventflow](https://github.com/juneja-varun/eventflow)** ![CI](https://github.com/juneja-varun/eventflow/actions/workflows/ci.yml/badge.svg) — Event-driven order pipeline: Django REST API → Redis pub/sub → Celery workers.
 - **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** ![CI](https://github.com/juneja-varun/ai-pr-reviewer/actions/workflows/ci.yml/badge.svg) — GitHub Action that reviews PR diffs with Claude and posts findings as a comment.
-- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system, DRF + React, versioned API. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system, DRF + React, versioned API.
 
 ## Achievements
 
