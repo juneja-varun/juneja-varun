@@ -2,7 +2,7 @@
 
 # Varun Juneja
 
-**Senior Full Stack Engineer** — Python/Django, React/TypeScript, AWS · Active open source contributor
+**Senior Full Stack Engineer** — Python/Django, React/TypeScript, AWS
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:varunjuneja7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-juneja--varun-181717?style=flat-square&logo=github)](https://github.com/juneja-varun)
@@ -18,17 +18,6 @@
 </picture>
 
 </div>
-
-## Open Source
-
-Contributor to Django/DRF, TypeScript, and ORM ecosystems:
-
-- **[drf-simple-apikey](https://github.com/koladev32/drf-simple-apikey/pulls?q=is%3Apr+author%3Ajuneja-varun)** — IPv6/CIDR validation, error handling (3 merged)
-- **[typeorm](https://github.com/typeorm/typeorm/pull/12786)** — fixed enum default-value normalization across 3 drivers
-- **[django-oscar](https://github.com/django-oscar/django-oscar/pull/4615)** — removed a documented anti-pattern
-- **[django-filter](https://github.com/carltongibson/django-filter/pulls?q=is%3Apr+author%3Ajuneja-varun)** — fixed ordering/CSV filter bugs
-
-Full activity → [github.com/juneja-varun](https://github.com/juneja-varun)
 
 ## Projects
 
