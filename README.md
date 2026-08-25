@@ -1,200 +1,41 @@
 <div align="center">
 
-# Varun Juneja 👨‍💻
+# Varun Juneja
 
-### Senior Full Stack Engineer • Django Wizard • System Design Enjoyer
+**Senior Full Stack Engineer** — Python/Django, React/TypeScript, AWS · Active open source contributor
 
-Building scalable systems, cloud-native apps, and backend architectures that hopefully survive traffic spikes and Friday deployments.
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:varunjuneja7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-juneja--varun-181717?style=flat-square&logo=github)](https://github.com/juneja-varun)
 
 <br>
 
-<p>
-  <a href="mailto:varunjuneja7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```python
-class Varun:
-    role = "Senior Full Stack Engineer"
-
-    stack = [
-        "Python",
-        "Django",
-        "React",
-        "TypeScript",
-        "AWS",
-        "Docker",
-        "PostgreSQL",
-        "Redis"
-    ]
-
-    architecture = [
-        "Microservices",
-        "Distributed Systems",
-        "Multi-Tenant SaaS",
-        "Event-Driven Systems"
-    ]
-
-    currently_into = [
-        "AI engineering workflows",
-        "system design",
-        "performance optimization",
-        "developer tooling"
-    ]
-
-    life_philosophy = (
-        "If it scales, logs properly, "
-        "and survives production... we vibe."
-    )
-```
-
----
-
-# 🧠 What I Actually Do
-
-- Build scalable backend systems with Django & Python
-- Design cloud-native architectures on AWS
-- Optimize APIs until the response time graph looks emotionally stable
-- Create automation workflows using AI tools
-- Ship microservices without summoning Kubernetes demons unnecessarily
-- Make developers slightly happier through tooling & DX improvements
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-| Backend | Frontend | Cloud | Databases |
-|---|---|---|---|
-| Python | React.js | AWS | PostgreSQL |
-| Django | TypeScript | Docker | MongoDB |
-| DRF | JavaScript | GitHub Actions | Redis |
-| FastAPI | Redux | CI/CD | DocumentDB |
-
-</div>
-
----
-
-# 📂 Featured Projects
-
-- **[eventflow](https://github.com/juneja-varun/eventflow)** ![CI](https://github.com/juneja-varun/eventflow/actions/workflows/ci.yml/badge.svg) — Event-driven order pipeline: Django REST API publishes domain events over Redis pub/sub, a listener dispatches them to a Celery task queue. Postgres + Redis service containers in CI, no mocked DB.
-- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** ![CI](https://github.com/juneja-varun/ai-pr-reviewer/actions/workflows/ci.yml/badge.svg) — GitHub Action that reviews PR diffs with Claude and posts findings as a comment. ~200 lines, fully tested, published on the Marketplace-ready `action.yml` format.
-- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system: Django REST Framework + React, soft-delete-aware unique constraints, versioned API with a compatibility layer, custom exception→status-code mapping. Deployed on Render/Vercel. [Live demo →](https://hrms-ashen-gamma.vercel.app)
-
-*More landing here as they're open-sourced — see [2026 Goals](#-2026-goals) below.*
-
----
-
-# 🏗️ Cool Stuff I've Worked On
-
-## 🔐 Encryption & Secure Systems
-Built encryption/decryption services using AWS KMS (AES-256) across frontend + backend systems.
-
-## ⚡ High Performance APIs
-Optimized APIs from ~800ms to under 250ms using:
-- query optimization
-- Redis caching
-- ORM tuning
-- indexing strategies
-
-## 🤖 AI-Powered Engineering Workflows
-Integrated:
-- OpenAI APIs
-- Claude models
-- GitHub Copilot
-- GitHub Actions
-
-to automate PR reviews and improve developer workflows.
-
-## 🧩 Multi-Tenant SaaS Architecture
-Designed scalable multi-tenant systems using:
-- Django
-- PostgreSQL schemas
-- AWS infrastructure
-- isolated deployments
-
-## 🎮 Real-Time Multiplayer Systems
-Worked on real-time gaming infrastructure using:
-- WebSockets
-- Redis Pub/Sub
-- event-driven communication
-
----
-
-# 📌 Current Focus
-
-```txt
-Building things that are:
-- scalable
-- maintainable
-- secure
-- observable
-- and hopefully documented 💀
-```
-
-Currently exploring:
-- AI-assisted development workflows
-- distributed task orchestration
-- advanced Django architecture
-- open source contributions
-- developer productivity systems
-
----
-
-# 🏆 Achievements
-
-- 🥇 Cyber Security Hackathon
-- 🥇 Smart India Hackathon
-- 🥇 NPC India Hackathon
-- 🌟 Outstanding Contribution Award
-- 🌟 Special Contribution Award
-
----
-
-# 📈 2026 Goals
-
-- Contribute consistently to Open Source
-- Publish production-grade Django utilities
-- Build a strong engineering presence online
-- Write deep-dives on backend architecture
-- Create systems that make other engineers say:
-  
-```txt
-"wait... this is actually clean 👀"
-```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juneja-varun&hide_border=true" height="165">
 
-</div>
-
----
-
-# 🤝 Connect
-
-```bash
-📫 Email   : varunjuneja7@gmail.com
-💻 GitHub  : github.com/juneja-varun
-⚡ Location : India
-```
-
----
-
-<div align="center">
-
-### engineered with caffeine, logs, and controlled chaos ☕⚙️
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juneja-varun/juneja-varun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juneja-varun/juneja-varun/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/juneja-varun/juneja-varun/output/github-contribution-grid-snake.svg" width="98%">
+</picture>
 
 </div>
+
+## Open Source
+
+Contributor to Django/DRF, TypeScript, and ORM ecosystems:
+
+- **[drf-simple-apikey](https://github.com/koladev32/drf-simple-apikey/pulls?q=is%3Apr+author%3Ajuneja-varun)** — IPv6/CIDR validation, error handling (3 merged)
+- **[typeorm](https://github.com/typeorm/typeorm/pull/12786)** — fixed enum default-value normalization across 3 drivers
+- **[django-oscar](https://github.com/django-oscar/django-oscar/pull/4615)** — removed a documented anti-pattern
+- **[django-filter](https://github.com/carltongibson/django-filter/pulls?q=is%3Apr+author%3Ajuneja-varun)** — fixed ordering/CSV filter bugs
+
+Full activity → [github.com/juneja-varun](https://github.com/juneja-varun)
+
+## Projects
+
+- **[eventflow](https://github.com/juneja-varun/eventflow)** ![CI](https://github.com/juneja-varun/eventflow/actions/workflows/ci.yml/badge.svg) — Event-driven order pipeline: Django REST API → Redis pub/sub → Celery workers.
+- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** ![CI](https://github.com/juneja-varun/ai-pr-reviewer/actions/workflows/ci.yml/badge.svg) — GitHub Action that reviews PR diffs with Claude and posts findings as a comment.
+- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system, DRF + React, versioned API. [Live demo →](https://hrms-ashen-gamma.vercel.app)
+
+## Achievements
+
+Cyber Security Hackathon · Smart India Hackathon · NPC India Hackathon · Outstanding Contribution Award · Special Contribution Award
