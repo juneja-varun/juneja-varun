@@ -21,6 +21,10 @@
 
 - **[expense-analyser](https://github.com/juneja-varun/expense-analyser)** ![CI](https://github.com/juneja-varun/expense-analyser/actions/workflows/ci.yml/badge.svg) — Self-hosted personal finance for India: parses bank and credit-card statements, categorises transactions with a deterministic rules engine, and tracks budgets and spend. AGPL-3.0.
 
+## Open Source
+
+Active contributor across the Django/DRF ecosystem — recent PRs in `django-ninja`, `authlib`, `django-crispy-forms`, `django-filter`, and others. [See open and merged PRs →](https://github.com/pulls?q=is%3Apr+author%3Ajuneja-varun)
+
 ## Achievements
 
 Cyber Security Hackathon · Smart India Hackathon · NPC India Hackathon · Outstanding Contribution Award · Special Contribution Award
