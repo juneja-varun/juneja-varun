@@ -19,9 +19,7 @@
 
 ## Projects
 
-- **[eventflow](https://github.com/juneja-varun/eventflow)** ![CI](https://github.com/juneja-varun/eventflow/actions/workflows/ci.yml/badge.svg) — Event-driven order pipeline: Django REST API → Redis pub/sub → Celery workers.
-- **[ai-pr-reviewer](https://github.com/juneja-varun/ai-pr-reviewer)** ![CI](https://github.com/juneja-varun/ai-pr-reviewer/actions/workflows/ci.yml/badge.svg) — GitHub Action that reviews PR diffs with Claude and posts findings as a comment.
-- **[hrms](https://github.com/juneja-varun/hrms)** ![CI](https://github.com/juneja-varun/hrms/actions/workflows/ci.yml/badge.svg) — HR management system, DRF + React, versioned API.
+- **[expense-analyser](https://github.com/juneja-varun/expense-analyser)** ![CI](https://github.com/juneja-varun/expense-analyser/actions/workflows/ci.yml/badge.svg) — Self-hosted personal finance for India: parses bank and credit-card statements, categorises transactions with a deterministic rules engine, and tracks budgets and spend. AGPL-3.0.
 
 ## Achievements
 
