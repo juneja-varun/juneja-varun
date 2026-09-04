@@ -23,4 +23,4 @@
 
 ## Open Source
 
-Active contributor across the Django/DRF ecosystem — recent PRs in `django-ninja`, `authlib`, `django-crispy-forms`, `django-filter`, and others. [See open and merged PRs →](https://github.com/search?q=is%3Apr+author%3Ajuneja-varun&type=pullrequests)
+Merged fixes in `django-otp`, `piccolo`, `django-oscar`, and `django-click` — plus open PRs in `django-ninja`, `authlib`, and others across the Django/DRF ecosystem. [See open and merged PRs →](https://github.com/search?q=is%3Apr+author%3Ajuneja-varun&type=pullrequests)
