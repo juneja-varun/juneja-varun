@@ -23,4 +23,4 @@
 
 ## Open Source
 
-Merged fixes in [`django-oscar`](https://github.com/django-oscar/django-oscar), [`piccolo`](https://github.com/piccolo-orm/piccolo), [`django-otp`](https://github.com/django-otp/django-otp), and [`django-click`](https://github.com/django-commons/django-click) — plus open PRs in [`django-ninja`](https://github.com/vitalik/django-ninja), [`authlib`](https://github.com/authlib/authlib), and others across the Django/DRF ecosystem. [See open and merged PRs →](https://github.com/search?q=is%3Apr+author%3Ajuneja-varun&type=pullrequests)
+Active contributor across the Django/DRF ecosystem — recent PRs in [`django-oscar`](https://github.com/django-oscar/django-oscar), [`piccolo`](https://github.com/piccolo-orm/piccolo), [`django-otp`](https://github.com/django-otp/django-otp), [`django-click`](https://github.com/django-commons/django-click), and others. [See open and merged PRs →](https://github.com/search?q=is%3Apr+author%3Ajuneja-varun&type=pullrequests)
